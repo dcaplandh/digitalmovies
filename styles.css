@@ -17,8 +17,8 @@ html {
 }
 h1{
     margin: auto;
-    font-size: 48px;
-    
+    font-size: 50px;
+
 }
 p{
     font-family: 'Coda', cursive;
@@ -156,24 +156,24 @@ a:hover {
 
 /* Track */
 ::-webkit-scrollbar-track {
-    box-shadow: inset 0 0 0px white; 
+    box-shadow: inset 0 0 0px white;
     border-radius: 70px;
-    
+
 }
- 
+
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: #b30000; 
+    background: #b30000;
     border-radius: 70px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-    background: #b30000; 
+    background: #b30000;
 }
 
 h1 span{
-    color: #b30000; 
+    color: #b30000;
 }
 
 body{
