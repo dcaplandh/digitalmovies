@@ -179,3 +179,30 @@ h1 span{
 body{
     padding-bottom:40px;
 }
+
+label{
+  font-family: 'Coda', cursive;
+}
+.data-form{
+  margin-bottom: 20px;
+  
+}
+form{
+width:280px;
+margin-left:40%;
+}
+.data-form label{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 20px;
+}
+form input{
+  background: none;
+  border:0px;
+  border-bottom: 3px solid #b30000;
+  outline-style: none;
+  color:white;
+  font-family: 'Coda', cursive;
+  font-size: 14px;
+}
